@@ -1,7 +1,7 @@
 Books I have read.
 
 Technical:
-Artificial Intelligence a Modern Approach - Russel and Norvig
+* Artificial Intelligence a Modern Approach - Russel and Norvig
 Practical Programming (Python) - Paul Gries, Jennifer Campbell, and Jason Montojo
 Learn Python in One Day and Learn It Well – Jamie Chan
 Learn Python 3 The Hard Way (51 out of 52 chapters/exercises) – Zed Shaw
