@@ -6,6 +6,7 @@ Technical:
 * Learn Python in One Day and Learn It Well – Jamie Chan
 * Learn Python 3 The Hard Way (51 out of 52 chapters/exercises) – Zed Shaw
 * Discrete Mathematics and Its Applications (11.5 out of 13 chapters) – Rosen
+* How AI Works - Ronald T. Kneusel
 
 Productivity:
 * The one thing - Gary Keller
