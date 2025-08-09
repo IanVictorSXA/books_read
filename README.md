@@ -13,7 +13,8 @@ Productivity:
 * 7 Habits of Highly Effective People - Stephen Covey
 * Eat That Frog! - Brian Tracy
 * Addiction Procrastination and Laziness - Roman Gelperin
-* The Power of Habit - Charles Duhigg, Grit - Martin Meadows
+* The Power of Habit - Charles Duhigg
+* Grit - Martin Meadows
 * Speed Reading - Alberto Dell’Isola
 * Pilgrim’s Progress - John Bunyan
 * Make It Stick - Peter C. Brown
