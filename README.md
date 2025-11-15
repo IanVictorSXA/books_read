@@ -7,6 +7,7 @@ Technical:
 * Learn Python 3 The Hard Way (51 out of 52 chapters/exercises) – Zed Shaw
 * Discrete Mathematics and Its Applications (11.5 out of 13 chapters) – Rosen
 * How AI Works - Ronald T. Kneusel
+* The Art of Clean Code - Christian Mayer
 
 Productivity:
 * The one thing - Gary Keller
@@ -19,3 +20,6 @@ Productivity:
 * Speed Reading - Alberto Dell’Isola
 * Pilgrim’s Progress - John Bunyan
 * Make It Stick - Peter C. Brown
+
+Misc:
+* The Book of 5 Rings - Miyamoto Musashi (read 33%, dropped)
