@@ -1,4 +1,4 @@
-Books I have read.
+Books I have read (that I remember).
 
 Technical:
 * Artificial Intelligence a Modern Approach - Russel and Norvig
@@ -23,3 +23,5 @@ Productivity:
 
 Misc:
 * The Book of 5 Rings - Miyamoto Musashi (read 33%, dropped)
+* Dokkodo - Miyamoto Musashi
+* Book Ecclesiastes, Book of Daniel  - Bible
