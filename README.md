@@ -20,8 +20,14 @@ Productivity:
 * Speed Reading - Alberto Dell’Isola
 * Pilgrim’s Progress - John Bunyan
 * Make It Stick - Peter C. Brown
+* Practical training in dynamic reading - Alberto Dell'Isola
 
 Misc:
 * The Book of 5 Rings - Miyamoto Musashi (read 33%, dropped)
 * Dokkodo - Miyamoto Musashi
 * Book Ecclesiastes, Book of Daniel  - Bible
+* The Birth Order Book - Kevin Leman
+* 12 Rules for Life - Jordan B. Peterson
+* Making Money is not a Secret - Reinaldo Domingos
+* If It Bleeds - Stephen King
+* The Art of War - Sun Tzu
